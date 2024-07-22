@@ -31,6 +31,9 @@ https://www.npmjs.com/package/@brahmbeyond/instareel
 ## Documentation
 Visit for full guide guide - https://brahmbeyond.github.io/instareel
 
+![image](https://github.com/user-attachments/assets/169701ff-b7dc-4255-9091-15ada9e65726)
+
+
 ## Installation
 ```bash
 npm i @brahmbeyond/instareel 
